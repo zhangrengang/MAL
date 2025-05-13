@@ -1,8 +1,11 @@
 We have three method papers published, to support our methodology: 
 
-1. [kmer-based, and synteny+orthology+phylogeny-based subgenome phasing](https://doi.org/10.1093/bib/bbad513)
-2. [orthologous synteny identification, polyploidy inference, reticulation inference and phylogenomics](https://doi.org/10.1093/nar/gkaf320)
-3. [incomplete lineage sorting (ILS) and introgression/hybridization recognizing](https://doi.org/10.1093/hr/uhae330)
+1. kmer-based, and synteny+orthology+phylogeny-based subgenome phasing 
+([Zhang et al. 2024](https://doi.org/10.1093/bib/bbad513))
+2. orthologous synteny identification, polyploidy inference, reticulation inference and phylogenomics 
+([Zhang et al. 2025](https://doi.org/10.1093/nar/gkaf320))
+3. incomplete lineage sorting (ILS) and introgression/hybridization recognizing 
+[Shang et al. 2024](https://doi.org/10.1093/hr/uhae330))
 
 Each method paper has presented detailed guideline/pipeline/codes in the above papers and in GitHub repos. 
 The following is the examples of pipelines and codes in GitHub:
